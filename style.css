@@ -1,0 +1,56 @@
+body {
+    background-color: whitesmoke;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    max-width: 90%;
+    padding: 0 0 0 80px ;
+}
+
+
+.txthome{
+    color: #007E85;
+}
+
+.txtpages {
+    color: black;
+}
+
+
+.txt-health {
+    color: #007E85;
+}
+
+.txt-care{
+    color: #6EAB36;
+}
+
+.btn > .btn1 {
+    color: #007E85;
+    text-decoration: none;
+    padding-inline: 20px;
+}    
+
+.btn > .log {
+      text-decoration: none;
+      background-color: #007E85;
+      width: 120px;
+      height: 51px;
+      top: 26px;
+      left: 1173px;
+      border-radius: 2px;
+
+}
+
+.btn > .log > .Login {
+    text-decoration: none;
+}
+
+.txtlogin {
+    color: #fff;
+}
+
+
+
